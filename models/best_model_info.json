@@ -1,0 +1,14 @@
+{
+    "model_name": "ResNet50",
+    "model_path": "/content/drive/MyDrive/brain_tumor_project/models/ResNet50_best.keras",
+    "test_accuracy": 0.891875,
+    "precision_macro": 0.8943622188947282,
+    "recall_macro": 0.891875,
+    "f1_macro": 0.8891038547702819,
+    "class_names": [
+        "Glioma",
+        "Meningioma",
+        "No Tumor",
+        "Pituitary"
+    ]
+}
